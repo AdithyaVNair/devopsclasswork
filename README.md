@@ -1,6 +1,8 @@
 # devopsclasswork
 devops class work
+## myself
 '''This is my class work'''
-My name is Adithya
-Section K230O26
-12391658
+**name**: Adithya
+**Section**: K230O26
+**reg**:12391658
+***link***
